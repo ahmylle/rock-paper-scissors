@@ -39,4 +39,4 @@ while play_again:
             play_again=False
 
 print()
-print("thanks for playing")
+print("thanks for playing") 
